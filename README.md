@@ -10,7 +10,6 @@
 <{
     "userGroups": {
         "group1": [
-            "olezhka.kruzhkov@mail.ru",
             "harold@example.com",
             "tod@example.com",
             "dustin@example.com"
@@ -46,28 +45,6 @@
                 "hours": 0,
                 "minutes": 1
             }
-        },
-        {
-            "id": 2,
-            "users": [
-                "allGroups"
-            ],
-            "todo": "Do smth",
-            "time": "06-05-2020_01:41:30",
-            "repeat": {
-                "days": 0,
-                "hours": 0,
-                "minutes": 1
-            }
-        },
-        {
-            "id": 3,
-            "users": [
-                "group1"
-            ],
-            "todo": "Do smth else",
-            "time": "06-05-2020_01:41:30",
-            "repeat": "none"
         }
     ]
 }>
