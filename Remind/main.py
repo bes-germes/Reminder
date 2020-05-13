@@ -2,8 +2,29 @@ import json
 import datetime
 import time
 import requests
+from pathlib import Path
 
 headers = {"Authorization": "Bearer k63r9hirjjdf7xwgd7jyh94zzo"}
+r = requests.get('http://localhost:8065/api/v4/teams', headers=headers)
+id_team = r.json()[0]["id"]
+r = requests.get('http://localhost:8065/api/v4/teams/'+id_team+'/members', headers=headers)
+team_members = r.json()
+
+
+with open('users.json', 'w') as f:
+    json.dump(team_members, f)
+data = {}
+with open("users.json", 'r') as json_file:
+    data = json.load(json_file)
+    with open('rules.json') as f:
+        data = json.load(f)
+for user_data in team_members:
+    r = requests.get('http://localhost:8065/api/v4/users/'+user_data['user_id'], headers=headers)
+    name = r.json()
+    data['userGroups']['allMembers'].append(name['username'])
+with open('rules.json', 'w') as f:
+    json.dump(data, f)
+
 
 def send(rule):
     r = requests.get("http://localhost:8065/api/v4/users", headers=headers)
@@ -16,9 +37,9 @@ def send(rule):
     with open("rules.json", 'r') as json_file:
         data = json.load(json_file)
     for group in rule['users']:
-        for email in data['userGroups'][str(group)]:
+        for username in data['userGroups'][str(group)]:
             try:
-                id = next(filter(lambda user: user['email'] == email, users_json))['id']
+                id = next(filter(lambda user: user['username'] == username, users_json))['id']
                 r = requests.post('http://localhost:8065/api/v4/channels/direct',
                               json=[
                                   id,
@@ -37,6 +58,7 @@ def send(rule):
 def repeat_to_micros(repeat):
     return int(repeat.get('days', 0) * 8.64e+10 + repeat.get('hours', 0) * 3.6e+9 + repeat.get('minutes', 0) * 6e+7 + repeat.get('seconds', 0) * 1e6)
 
+
 pr_start_time = datetime.datetime.now()
 while True:
     json_file = open("rules.json", 'r')
@@ -54,3 +76,4 @@ while True:
 
     time.sleep(1)
     pr_start_time = start_time
+
