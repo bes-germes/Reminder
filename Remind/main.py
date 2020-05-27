@@ -2,20 +2,47 @@ import json
 import datetime
 import time
 import requests
-from pathlib import Path
+import configparser
+import logging
 
-headers = {"Authorization": "Bearer k63r9hirjjdf7xwgd7jyh94zzo"}
+logging.basicConfig(filename='log.log', level=logging.DEBUG)
+logging.debug('This message should go to the log file')
+logging.info('So should this')
+logging.warning('And this, too')
+
+
+settings = configparser.ConfigParser()
+settings.sections()
+settings.read('settings.ini')
+headers = json.loads((settings['DEFAULT']['headers']))
+url = settings['DEFAULT']['url']
+print(headers)
+
+
+def mk_dir(m_id, id_of_users, mk_dir_task):
+    r = requests.post("http://" + url + "/api/v4/channels/direct",
+                      json=[
+                          id_of_users,
+                          m_id
+                      ], headers=headers)
+    channel_id = (r.json())['id']
+    r = requests.post("http://" + url + "/api/v4/posts",
+                      json={
+                          "channel_id": channel_id,
+                          "message": "You've got this message as a member" + mk_dir_task[
+                              'todo']
+                      }, headers=headers)
 
 
 def send(rule, team_name):
-    r = requests.get("http://localhost:8065/api/v4/teams/name/"+team_name, headers=headers)
+    r = requests.get("http://" + url + "/api/v4/teams/name/" + team_name, headers=headers)
     team_id = r.json()["id"]
-    r = requests.get("http://localhost:8065/api/v4/teams/" + team_id + "/members", headers=headers)
+    r = requests.get("http://" + url + "/api/v4/teams/" + team_id + "/members", headers=headers)
     team_members = (r.json())
-    r = requests.get("http://localhost:8065/api/v4/users", headers=headers)
+    r = requests.get("http://" + url + "/api/v4/users", headers=headers)
     users_json = r.json()
     print(rule)
-    r = requests.get('http://localhost:8065/api/v4/users/me', headers=headers)
+    r = requests.get("http://" + url + "/api/v4/users/me", headers=headers)
     my_id = (r.json())['id']
     group_users = filter(lambda user: user['id'] in list((d['user_id'] for d in team_members)), users_json)
 
@@ -26,68 +53,27 @@ def send(rule, team_name):
         for user_name in group_users:
             try:
                 id = user_name['id']
-                r = requests.post('http://localhost:8065/api/v4/channels/direct',
-                                  json=[
-                                      id,
-                                      my_id
-                                  ], headers=headers)
-                channel_id = (r.json())['id']
-                r = requests.post('http://localhost:8065/api/v4/posts',
-                                  json={
-                                      "channel_id": channel_id,
-                                      "message": "You've got this message as a member of group:" + user_name[
-                                          'username'] + "\n" + rule[
-                                                     'todo']
-                                  }, headers=headers)
+                mk_dir(my_id, id, rule)
             except:
-                print("Error")
+                logging.warning('No users with such name')
     elif rule['whom'] == "except":
         for user_name in group_users:
             try:
                 if user_name['username'] not in rule['users']:
                     id = user_name['id']
-                    r = requests.post('http://localhost:8065/api/v4/channels/direct',
-                                      json=[
-                                          id,
-                                          my_id
-                                      ], headers=headers)
-                    channel_id = (r.json())['id']
-                    r = requests.post('http://localhost:8065/api/v4/posts',
-                                      json={
-                                          "channel_id": channel_id,
-                                          "message": "You've got this message as a member of group:" + user_name[
-                                              'username'] + "\n" +
-                                                     rule['todo']
-                                      }, headers=headers)
+                    mk_dir(my_id, id, rule)
             except:
-                print("Error")
+                logging.warning('No users with such name')
     else:
         for name in rule['users']:
             try:
                 id = next(filter(lambda user: user['username'] == name, group_users))['id']
-                r = requests.post('http://localhost:8065/api/v4/channels/direct',
-                                  json=[
-                                      id,
-                                      my_id
-                                  ], headers=headers)
-                channel_id = (r.json())['id']
-                r = requests.post('http://localhost:8065/api/v4/posts',
-                                  json={
-                                      "channel_id": channel_id,
-                                      "message": "You've got this message as a member of group:" + name + "\n" +
-                                                 rule['todo']
-                                  }, headers=headers)
+                mk_dir(my_id, id, rule)
             except:
-                print("Error")
+                logging.warning('No users with such name')
 
 
-def repeat_to_micros(repeat):
-    return int(repeat.get('days', 0) * 8.64e+10 + repeat.get('hours', 0) * 3.6e+9 + repeat.get('minutes',
-                                                                                               0) * 6e+7 + repeat.get(
-        'seconds', 0) * 1e6)
-
-
-pr_start_time = datetime.datetime.now()
+remember_minute = -1
 json_file = open("rules.json", 'r')
 data = json.load(json_file)
 json_file.close()
@@ -99,27 +85,27 @@ while True:
     json_file = open("rules.json", 'r')
     data = json.load(json_file)
     json_file.close()
-    start_time = datetime.datetime.now()
+    now = datetime.datetime.now()
     for team in data:
         for task in team['rules']:
             task_time = datetime.datetime.strptime(
                 task['when']['time'], '%d-%m-%Y_%H:%M:%S')
+            days_data = task['when']['repeat']['days']
+            hours_data = task['when']['repeat']['hours']
+            minutes_data = task['when']['repeat']['minutes']
             if task['when']['principe'] == "period":
-                if task['when']['repeat'] != "none" and pr_start_time >= task_time + datetime.timedelta(
-                        microseconds=repeat_to_micros(task['when']['repeat'])):
-                    task_time = pr_start_time + datetime.timedelta(microseconds=(round(
-                        (pr_start_time - task_time).total_seconds() * 1e6) % repeat_to_micros(task['when']['repeat'])))
-                if pr_start_time <= task_time < start_time:
-                    send(task, team['team'])
+                period = now - task_time
+                if remember_minute != now.minute:
+                    if period.total_seconds() // 60 % (
+                            task['when']['repeat']['days'] * 60 * 24 + task['when']['repeat']['hours'] * 60 +
+                            task['when']['repeat']['minutes']) == 0 and now >= task_time:
+                        remember_minute = now.minute
+                        send(task, team['team'])
+
             else:
-                task['when']['repeat'] = "none"
-                if task['when']['repeat'] != "none" and pr_start_time >= task_time + datetime.timedelta(
-                        microseconds=repeat_to_micros(task['when']['repeat'])):
-                    task_time = pr_start_time + datetime.timedelta(microseconds=(round(
-                        (pr_start_time - task_time).total_seconds() * 1e6) % repeat_to_micros(task['when']['repeat'])))
-                if pr_start_time <= task_time < start_time:
+                if now.day == task_time.day and now.hour == task_time.hour and now.minute == task_time.minute and\
+                        remember_minute != now.minute:
+                    task_time = datetime.timedelta(days=days_data, hours=hours_data,
+                                                   minutes=minutes_data)
+                    remember_minute = now.minute
                     send(task, team['team'])
-
-    time.sleep(1)
-    pr_start_time = start_time
-
