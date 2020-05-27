@@ -1,0 +1,1554 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+WARNING:root:No users with such name
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/name/bla HTTP/1.1" 200 346
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/teams/3jyuychbjfy1ujropebj356bgc/members HTTP/1.1" 200 327
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users HTTP/1.1" 200 859
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "GET /api/v4/users/me HTTP/1.1" 200 616
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/channels/direct HTTP/1.1" 201 374
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8065
+DEBUG:urllib3.connectionpool:http://localhost:8065 "POST /api/v4/posts HTTP/1.1" 201 400
