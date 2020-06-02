@@ -10,7 +10,6 @@ logging.debug('This message should go to the log file')
 logging.info('So should this')
 logging.warning('And this, too')
 
-
 settings = configparser.ConfigParser()
 settings.sections()
 settings.read('settings.ini')
@@ -35,7 +34,8 @@ def mk_dir(m_id, id_of_users, mk_dir_task):
 
 
 def send(rule, team_name):
-    r = requests.get("http://" + url + "/api/v4/teams/name/" + team_name, headers=headers)
+    r = requests.get("http://" + url + "/api/v4/teams/name/" + team_name,
+                     headers=headers)  
     team_id = r.json()["id"]
     r = requests.get("http://" + url + "/api/v4/teams/" + team_id + "/members", headers=headers)
     team_members = (r.json())
@@ -44,11 +44,8 @@ def send(rule, team_name):
     print(rule)
     r = requests.get("http://" + url + "/api/v4/users/me", headers=headers)
     my_id = (r.json())['id']
-    group_users = filter(lambda user: user['id'] in list((d['user_id'] for d in team_members)), users_json)
+    group_users = list(filter(lambda user: user['id'] in list((d['user_id'] for d in team_members)), users_json))
 
-    data = {}
-    with open("rules.json", 'r') as json_file:
-        data = json.load(json_file)
     if rule['whom'] == "all":
         for user_name in group_users:
             try:
@@ -65,12 +62,16 @@ def send(rule, team_name):
             except:
                 logging.warning('No users with such name')
     else:
+        print(group_users)
         for name in rule['users']:
             try:
-                id = next(filter(lambda user: user['username'] == name, group_users))['id']
+                it = next(filter(lambda user: user['username'] == name, group_users), None)
+                if not it:
+                    continue
+                id = it['id']
                 mk_dir(my_id, id, rule)
             except:
-                logging.warning('No users with such name')
+                logging.warning('No users with such name' + name)
 
 
 remember_minute = -1
@@ -82,13 +83,10 @@ for team in data:
         if task['when']['principe'] == "once":
             send(task, team['team'])
 while True:
-    json_file = open("rules.json", 'r')
-    data = json.load(json_file)
-    json_file.close()
     now = datetime.datetime.now()
     for team in data:
         for task in team['rules']:
-            task_time = datetime.datetime.strptime(
+            task_time = datetime.datetime.strptime(  # try to delta
                 task['when']['time'], '%d-%m-%Y_%H:%M:%S')
             days_data = task['when']['repeat']['days']
             hours_data = task['when']['repeat']['hours']
@@ -103,8 +101,10 @@ while True:
                         send(task, team['team'])
 
             else:
-                if now.day == task_time.day and now.hour == task_time.hour and now.minute == task_time.minute and\
-                        remember_minute != now.minute:
+                if (now.day == task_time.day
+                        and now.hour == task_time.hour
+                        and now.minute == task_time.minute
+                        and remember_minute != now.minute):
                     task_time = datetime.timedelta(days=days_data, hours=hours_data,
                                                    minutes=minutes_data)
                     remember_minute = now.minute
