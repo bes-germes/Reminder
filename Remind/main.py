@@ -24,7 +24,7 @@ def mk_dir(m_id, id_of_users, mk_dir_task):
                       json={
                           "channel_id": channel_id,
                           "message": "You've got this message as a member" + mk_dir_task[
-                              'todo']
+                              'message']
                       }, headers=headers)
 
 
